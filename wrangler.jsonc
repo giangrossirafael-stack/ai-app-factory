@@ -1,0 +1,9 @@
+
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "neural-pulse-mcp",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-11-10",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": true
+}
