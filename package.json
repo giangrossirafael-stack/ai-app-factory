@@ -1,0 +1,17 @@
+
+{
+  "name": "neural-pulse-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "agents": "^0.0.95"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
