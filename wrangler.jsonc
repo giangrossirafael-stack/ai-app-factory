@@ -6,6 +6,9 @@
   "compatibility_date": "2026-11-10",
   "compatibility_flags": ["nodejs_compat"],
   "workers_dev": true,
+  "vars": {
+    "GOOGLE_CLIENT_ID": "160378488953-9qcstfledhbv0ku3uo1gvjhlra0rmmu2.apps.googleusercontent.com"
+  },
   "kv_namespaces": [
     {
       "binding": "TOKENS",
